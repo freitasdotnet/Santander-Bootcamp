@@ -1,6 +1,6 @@
 # 🚀 Bootcamp Santander de Cibersegurança #2
 
-Este repositório contém **anotações** e **imagens** relacionadas ao **Bootcamp Santander de Cibersegurança #2**. Aqui, você encontrará materiais organizados para facilitar o acompanhamento do progresso e o aprendizado. 📚
+Este repositório contém **anotações** e **conteúdos audiovisuais** relacionados ao **Bootcamp Santander de Cibersegurança #2**. Aqui, você encontrará materiais organizados para facilitar o acompanhamento do progresso e o aprendizado. 📚
 
 ---
 
@@ -9,12 +9,12 @@ Este repositório contém **anotações** e **imagens** relacionadas ao **Bootca
 - **📄 Anotações:**  
   Arquivos de texto e resumos sobre os temas estudados durante o bootcamp.  
 
-- **🖼️ Imagens:**  
-  Prints e screenshots para documentar etapas práticas realizadas.  
+- **🖼️ Imagens e vídeos:**  
+  Gravações e screenshots para documentar etapas práticas realizadas.  
 
 ---
 
-## 🌟 Sabedoria de Sun Tzu
+##  Sabedoria
 
 > “A vitória está reservada para aqueles que estão dispostos a pagar o preço.”
 
